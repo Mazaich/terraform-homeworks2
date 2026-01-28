@@ -18,8 +18,8 @@
 (как в примере на семинаре). Также изменил на standard-v2, т.к. данная платформа поддерживает чисол ядер 2 (1 тоже изменил на 2). 
 4 платформы сейчас нет, поэтому сменил на 2-ю.
 
-![Скриншот из ЛК Yandex Cloud с созданной ВМ]()
-![Скриншот с IP адресом с выводом результата кломанды curl ifconfig.me]()
+![Скриншот из ЛК Yandex Cloud с созданной ВМ](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_1.png?raw=true)
+![Скриншот с IP адресом с выводом результата кломанды curl ifconfig.me](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-27_16_26_42.png?raw=true)
 
 Параметры preemptible = true (прервываемая ВМ) и core_fraction = 5 (гарантированная доля vCPU 5%) позволяют значительно снизить стоимость ВМ 
 (до 80% экономии), что критически важно для обучения с ограниченным бюджетом. Они учат работать с непостоянной инфраструктурой и оптимизировать
@@ -29,13 +29,15 @@
 Задание 2
 
 ОТВЕТ:
-![Скриншот1 в внесенными переменными в variables.tf]()
-![Скриншот2 в внесенными переменными в variables.tf]()
-![Сриншот с внесенными с замененными хардкод значениями на переменные]()
-![Скриншот подтверждения, что terraform plan сработал без изменений]()
+![Скриншот1 в внесенными переменными в variables.tf](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_32_09.png?raw=true)
+![Скриншот2 в внесенными переменными в variables.tf](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_32_22.png?raw=true)
+![Сриншот с внесенными с замененными хардкод значениями на переменные](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_33_02.png?raw=true)
+![Скриншот подтверждения, что terraform plan сработал без изменений](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_33_48.png?raw=true)
 
 Задание 3
 
+ОТВЕТ: 
+![Скриншот с созданной второй ВМ]()
 
 
 
