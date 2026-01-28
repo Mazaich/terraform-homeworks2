@@ -10,3 +10,7 @@
 
 # own secret vars store.
 personal.auto.tfvars
+*.json
+*.key
+authorized_key.json
+sa-key.json

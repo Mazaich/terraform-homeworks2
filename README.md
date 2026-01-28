@@ -34,10 +34,14 @@
 ![Сриншот с внесенными с замененными хардкод значениями на переменные](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_33_02.png?raw=true)
 ![Скриншот подтверждения, что terraform plan сработал без изменений](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-28_15_33_48.png?raw=true)
 
+
 Задание 3
 
 ОТВЕТ: 
-![Скриншот с созданной второй ВМ]()
+![Скриншот с созданной второй ВМ](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2.png?raw=true)
+
+Задание 4
+
 
 
 
