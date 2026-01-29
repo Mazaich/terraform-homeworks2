@@ -41,6 +41,12 @@
 ![Скриншот с созданной второй ВМ](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2.png?raw=true)
 
 Задание 4
+![Скриншот выаоды комманды terraform outptu]()
+
+Задание 5
+![Скриншот вывода файла locals.tf]()
+![Скриншот вывыда команды terraform plan с отсутствием изменений]()
+![Скриншот вывода команды nthhaform apply с отсутствием изменений]()
 
 
 

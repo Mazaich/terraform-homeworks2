@@ -1,10 +1,8 @@
-# Переменные для ВМ platform-web
-
-variable "vm_web_name" {
-  type        = string
-  default     = "netology-develop-platform-web"
-  description = "Имя виртуальной машины web"
-}
+#variable "vm_web_name" {
+# type        = string
+# default     = "netology-develop-platform-web"
+#  description = "Имя виртуальной машины web"
+#}
 
 variable "vm_web_platform_id" {
   type        = string
@@ -54,13 +52,12 @@ variable "vm_web_image_family" {
   description = "Семейство образа для ВМ web"
 }
 
-## Переменные для ВМ platform-db
 
-variable "vm_db_name" {
-  type        = string
-  default     = "netology-develop-platform-db"
-  description = "Имя виртуальной машины db"
-}
+#variable "vm_db_name" {
+#  type        = string
+#  default     = "netology-develop-platform-db"
+#  description = "Имя виртуальной машины db"
+#}
 
 variable "vm_db_platform_id" {
   type        = string
