@@ -59,4 +59,4 @@
 
 ОТВЕТ:
 
-![Скриншот результата  выполнения команды terraform plan, изменений нет]()
+![Скриншот результата  выполнения команды terraform plan, изменений нет](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-29_12_47_24.png?raw=true)
