@@ -40,14 +40,23 @@
 ОТВЕТ: 
 ![Скриншот с созданной второй ВМ](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2.png?raw=true)
 
+
 Задание 4
-![Скриншот выаоды комманды terraform outptu]()
+
+ОТВЕТ:
+![Скриншот выаоды комманды terraform outptu](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-29_11_44_40.png?raw=true)
+
 
 Задание 5
-![Скриншот вывода файла locals.tf]()
-![Скриншот вывыда команды terraform plan с отсутствием изменений]()
-![Скриншот вывода команды nthhaform apply с отсутствием изменений]()
+
+ОТВЕТ:
+![Скриншот вывода файла locals.tf](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-29_12_14_44.png?raw=true)
+![Скриншот вывыда команды terraform plan с отсутствием изменений](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-29_12_14_22.png?raw=true)
+![Скриншот вывода команды nthhaform apply с отсутствием изменений](https://github.com/Mazaich/terraform-homeworks2/blob/main/Screenshot_2026-01-29_12_14_26.png?raw=true)
 
 
+Задание 6
 
+ОТВЕТ:
 
+![Скриншот результата  выполнения команды terraform plan, изменений нет]()

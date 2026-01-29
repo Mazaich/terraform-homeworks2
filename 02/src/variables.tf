@@ -1,5 +1,3 @@
-## cloud vars
-
 variable "cloud_id" {
   type        = string
   description = "ID облака в Yandex Cloud"
@@ -28,13 +26,11 @@ variable "vpc_name" {
   description = "Имя VPC сети и подсети"
 }
 
-# ssh vars
-
-variable "vms_ssh_root_key" {
-  type        = string
-  default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOeALJmB/af8yJzbgqWVqA27F0vqFqN+a7e80MpVtN1u roman@attacker"
-  description = "SSH публичный ключ для доступа к ВМ"
-}
+#variable "vms_ssh_root_key" {
+#  type        = string
+#  default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOeALJmB/af8yJzbgqWVqA27F0vqFqN+a7e80MpVtN1u roman@attacker"
+#  description = "SSH публичный ключ для доступа к ВМ"
+#}
 
 variable "service_account_key_file" {
   type        = string
